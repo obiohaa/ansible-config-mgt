@@ -1,3 +1,2 @@
 - Ansible
-  /etc/host
-  sudo vi /etc/host
+  sudo apt install TREE
