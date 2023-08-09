@@ -183,5 +183,5 @@ Our update with ansible architecture now looks like this:
 ![updated structure](./images/updated%20structure.PNG)
 
 ** --THE END**
-this has been good i mean it. i know u do and i do too
+this has been good i mean it. i know u do and i do too and i too
 
